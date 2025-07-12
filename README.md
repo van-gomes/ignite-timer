@@ -2,6 +2,15 @@
 
 Este é um projeto de timer focado em produtividade, desenvolvido durante o curso Ignite da Rocketseat. Ele permite criar ciclos de tarefas cronometradas com foco total, semelhante à técnica Pomodoro.
 
+## Funcionalidades
+
+- Criar ciclos com tempo definido
+- Contador regressivo em tempo real
+- Validação de formulário com React Hook Form e Zod
+- Histórico de ciclos
+- Navegação entre páginas
+- Tema escuro usando styled-components
+
 ## Tecnologias Utilizadas
 
 - [React](https://reactjs.org/)
